@@ -11,6 +11,7 @@ A beginner Bioinformatics project written in Python to analyze DNA sequences.
 - Calculates GC content percentage.
 - Searches for a DNA pattern and reports its starting positions.
 - Handles empty DNA sequence input with a clear error message.
+- Accepts both uppercase and lowercase DNA sequences and patterns.
 
 ## Technologies
 
