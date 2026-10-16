@@ -42,8 +42,8 @@ def gc_content(sequence):
     return GC_percent
 print(gc_content(""))
 
-sequence = input("enter DNA sequence:")
-pattern = input("enter pattern:")
+sequence = input("enter DNA sequence:").upper()
+pattern = input("enter pattern:").upper()
 
 if sequence == "":
     print("DNA sequence cannot be empty")
