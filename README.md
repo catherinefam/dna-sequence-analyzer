@@ -37,8 +37,11 @@ The pattern `TG` is found at index `1` (zero-based indexing).
 
 ## How to Run
 
-1. Make sure Python 3 is installed.
-2. Run the Python file.
-3. Enter a DNA sequence when prompted.
-4. Enter a DNA pattern when prompted.
-5. The program will display base counts, GC content, and pattern positions.
+## How to Run
+
+1. Install Python 3.
+2. Open the Python file in Visual Studio Code.
+3. Click **Run Python File** to start the program.
+4. Enter a DNA sequence when prompted.
+5. Enter a DNA pattern when prompted.
+6. The program will display base counts, GC content, and pattern positions.
